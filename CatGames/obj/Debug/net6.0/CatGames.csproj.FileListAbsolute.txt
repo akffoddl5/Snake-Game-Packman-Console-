@@ -1,0 +1,30 @@
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.csproj.AssemblyReference.cache
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.AssemblyInfoInputs.cache
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.AssemblyInfo.cs
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.csproj.CoreCompileInputs.cache
+C:\Users\lollo\source\repos\CatGames\CatGames\bin\Debug\net6.0\CatGames.exe
+C:\Users\lollo\source\repos\CatGames\CatGames\bin\Debug\net6.0\CatGames.deps.json
+C:\Users\lollo\source\repos\CatGames\CatGames\bin\Debug\net6.0\CatGames.runtimeconfig.json
+C:\Users\lollo\source\repos\CatGames\CatGames\bin\Debug\net6.0\CatGames.dll
+C:\Users\lollo\source\repos\CatGames\CatGames\bin\Debug\net6.0\CatGames.pdb
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.dll
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\refint\CatGames.dll
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.pdb
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\CatGames.genruntimeconfig.cache
+C:\Users\lollo\source\repos\CatGames\CatGames\obj\Debug\net6.0\ref\CatGames.dll
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\bin\Debug\net6.0\CatGames.exe
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\bin\Debug\net6.0\CatGames.deps.json
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\bin\Debug\net6.0\CatGames.runtimeconfig.json
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\bin\Debug\net6.0\CatGames.dll
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\bin\Debug\net6.0\CatGames.pdb
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.csproj.AssemblyReference.cache
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.AssemblyInfoInputs.cache
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.AssemblyInfo.cs
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.csproj.CoreCompileInputs.cache
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.dll
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\refint\CatGames.dll
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.pdb
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\CatGames.genruntimeconfig.cache
+C:\Users\lollo\OneDrive\바탕 화면\CatGames\CatGames\obj\Debug\net6.0\ref\CatGames.dll
